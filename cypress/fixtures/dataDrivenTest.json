@@ -1,0 +1,23 @@
+[
+    {
+        "username" : "alnumanqa@gmail.com",
+        "password" : "6466396008Ii",
+        "expected" : "Dashboard"
+    },
+
+    {
+        "username" : "alnumanqa@gmail.com",
+        "password" : "6466396008",
+        "expected" : "\n                    You have entered an invalid username or password!\n                "
+
+    },
+
+    {
+        "username" : "alnumanqa@gmail.co",
+        "password" : "6466396008Ii",
+        "expected" : "\n                    You have entered an invalid username or password!\n                "
+
+    }
+
+   
+]
